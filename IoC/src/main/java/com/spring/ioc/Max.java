@@ -3,7 +3,9 @@ package com.spring.ioc;
 /**
  * Created by hp on 2019/3/4.
  */
+
 public class Max {
+    //</editor-fold>
     private int a;
     private  int b;
 

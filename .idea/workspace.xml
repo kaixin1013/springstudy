@@ -1,74 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bcdc573-0199-4782-8bf6-6324dd301568" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/App.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/Application.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/Boss.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/Car.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/Max.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/Meeting.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/MeetingAPP.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/MessageService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/MessageServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/Messageprinter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/classes/work/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/classes/work/UserLogin.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/test-classes/com/spring/ioc/AppTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/test-classes/com/spring/ioc/MaxTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/test-classes/work/UserLoginTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/logs/my_log.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/Application.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/Boss.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/Max.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/Meeting.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/MeetingAPP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/MessageService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/MessageServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/Messageprinter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/src/main/java/work/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/src/main/java/work/UserLogin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/src/main/resources/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/src/main/resources/bean.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/src/main/resources/beans.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/src/main/resources/work.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/src/test/java/com/spring/ioc/MaxTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/src/test/java/work/UserLoginTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/classes/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/classes/bean.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/classes/beans.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/classes/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IoC/target/classes/work.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/my_log.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quickstart/src/main/java/ioc/spring/Apple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quickstart/src/main/java/ioc/spring/HelloWorld.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quickstart/src/main/java/ioc/spring/HelloWorldApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quickstart/src/main/java/ioc/spring/Phone.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quickstart/src/main/java/ioc/spring/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quickstart/src/main/java/ioc/spring/StudentApp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IoC/IoC.iml" afterPath="$PROJECT_DIR$/IoC/IoC.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IoC/pom.xml" afterPath="$PROJECT_DIR$/IoC/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quickstart/pom.xml" afterPath="$PROJECT_DIR$/quickstart/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IoC/src/main/java/com/spring/App.java" afterPath="$PROJECT_DIR$/quickstart/src/main/java/ioc/spring/App.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IoC/src/test/java/com/spring/AppTest.java" afterPath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/ioc/AppTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/quickstart/src/main/java/com.spring.quickstart/spring/App.java" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/App.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/AppTest.java" afterPath="$PROJECT_DIR$/IoC/src/test/java/com/spring/ioc/AppTest.java" />
-    </list>
+    <list default="true" id="8bcdc573-0199-4782-8bf6-6324dd301568" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/quickstart/target/" />
     <ignored path="$PROJECT_DIR$/IoC/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -139,8 +72,8 @@
       <file leaf-file-name="UserLoginTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IoC/src/test/java/work/UserLoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="411">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -980,7 +913,7 @@
       <option name="presentableId" value="Default" />
       <updated>1551658095392</updated>
       <workItem from="1551658099692" duration="1858000" />
-      <workItem from="1551660687613" duration="19504000" />
+      <workItem from="1551660687613" duration="19753000" />
     </task>
     <servers />
   </component>
@@ -1002,11 +935,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21362000" />
+    <option name="totallyTimeSpent" value="21611000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1029,7 +961,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25539955" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25539955" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1390,8 +1322,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IoC/src/test/java/work/UserLoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="411">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>

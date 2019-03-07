@@ -2,68 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bcdc573-0199-4782-8bf6-6324dd301568" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aop/aop.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aop/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aop/src/main/java/com/spring/aop/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aop/src/main/java/com/spring/aop/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aop/src/main/java/com/spring/aop/Hello.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aop/src/main/java/com/spring/aop/HelloApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aop/src/main/java/com/spring/aop/HelloImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aop/src/main/java/com/spring/aop/Move.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aop/src/main/java/com/spring/aop/MoveApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aop/src/main/java/com/spring/aop/MyBeforeAdvice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aop/src/main/java/com/spring/aop/Tank.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aop/src/main/java/com/spring/aop/TankProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aop/src/resources/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aop/src/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aop/src/test/java/com/spring/aop/AppTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/Boss.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/Car.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/Max.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/Meeting.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/MeetingAPP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/MessageService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/MessageServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IoC/target/classes/com/spring/ioc/Messageprinter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IoC/target/test-classes/com/spring/ioc/AppTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IoC/target/test-classes/com/spring/ioc/MaxTest.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IoC/logs/my_log.log" afterPath="$PROJECT_DIR$/IoC/logs/my_log.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IoC/pom.xml" afterPath="$PROJECT_DIR$/IoC/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IoC/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/IoC/src/main/resources/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IoC/src/main/resources/work.xml" afterPath="$PROJECT_DIR$/IoC/src/main/resources/work.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IoC/target/classes/applicationContext.xml" afterPath="$PROJECT_DIR$/IoC/target/classes/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IoC/target/classes/work.xml" afterPath="$PROJECT_DIR$/IoC/target/classes/work.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/App.java" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/aop/ioc/App.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/Application.java" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/aop/ioc/Application.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/Boss.java" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/aop/ioc/Boss.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/Car.java" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/aop/ioc/Car.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/Max.java" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/aop/ioc/Max.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/Meeting.java" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/aop/ioc/Meeting.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/MeetingAPP.java" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/aop/ioc/MeetingAPP.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/MessageService.java" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/aop/ioc/MessageService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/MessageServiceImpl.java" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/aop/ioc/MessageServiceImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IoC/src/main/java/com/spring/ioc/Messageprinter.java" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/aop/ioc/Messageprinter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IoC/src/test/java/com/spring/ioc/AppTest.java" afterPath="$PROJECT_DIR$/IoC/src/test/java/com/spring/aop/ioc/AppTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IoC/src/test/java/com/spring/ioc/MaxTest.java" afterPath="$PROJECT_DIR$/IoC/src/test/java/com/spring/aop/ioc/MaxTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/ioc/AppTest.java" afterPath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/aop/ioc/AppTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/quickstart/target/" />
     <ignored path="$PROJECT_DIR$/IoC/target/" />
@@ -982,8 +921,16 @@
       <updated>1551658095392</updated>
       <workItem from="1551658099692" duration="1858000" />
       <workItem from="1551660687613" duration="27144000" />
-      <workItem from="1551918964004" duration="5681000" />
+      <workItem from="1551918964004" duration="5975000" />
     </task>
+    <task id="LOCAL-00001" summary="commit aop module">
+      <created>1551924769026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551924769026</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1013,7 +960,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34683000" />
+    <option name="totallyTimeSpent" value="34977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="0" />
@@ -1091,6 +1038,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit aop module" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit aop module" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

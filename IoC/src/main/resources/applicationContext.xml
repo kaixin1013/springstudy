@@ -2,7 +2,7 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-<bean id="max" class="com.spring.ioc.Max">
+<bean id="max" class="com.spring.aop.ioc.Max">
     <constructor-arg name="a" value="5"/>
     <constructor-arg name="b" value="3"/>
 

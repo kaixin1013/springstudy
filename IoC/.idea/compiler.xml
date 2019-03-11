@@ -7,14 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="aop" />
-        <module name="Aop" />
+        <module name="springstudy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="aop" target="1.8" />
-      <module name="Aop" target="1.8" />
       <module name="IoC" target="1.7" />
-      <module name="quickstart" target="1.5" />
+      <module name="springstudy" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -39,16 +39,16 @@
     </properties>
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/../spring-study/quickstart" />
+    <file type="web" url="file://$PROJECT_DIR$/quickstart" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/../spring-study/IoC/pom.xml" />
+        <option value="$PROJECT_DIR$/IoC/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
-    <output url="file://$PROJECT_DIR$/../spring-study/out" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

@@ -1,0 +1,18 @@
+package com.spring.aop;
+
+import org.slf4j.LoggerFactory;
+
+import org.slf4j.Logger;
+
+/**
+ * Created by hp on 2019/3/7.
+ */
+public class UserDaoImpl implements UserDao {
+    private static final Logger logger= LoggerFactory.getLogger(MyBeforeAdvice.class);
+
+    @Override
+    public void insert() {
+
+        logger.debug("开始进行插入操作。。。");
+    }
+}
